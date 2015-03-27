@@ -12,6 +12,4 @@ First you have to create a Google API project.Follow this link http://developer.
 Second set up android application as in Android folder. Add Google Play Services to Your Project follow this link http://developer.android.com/google/play-services/setup.html#Setup.
 Android device must have Google Play Service downloaded. Minimum SdkVersion=8  
 
-Third set up python code as in Python folder.    
- 
- 
+Third set up python code as in Python folder. 
